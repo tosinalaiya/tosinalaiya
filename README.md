@@ -6,7 +6,7 @@ I'm a Junior Data Analyst based in Lagos, Nigeria, passionate about turning raw 
 - **Data Visualisation:** Power BI
 - **Spreadsheets:** Microsoft Excel (Advanced — VLOOKUP, INDEX/MATCH, Pivot Tables, Dashboards)
 - **Database:** SQL
-- **Currently Learning:** Python
+- - **Programming:** Python
 
 ## 📊 Featured Projects
 
